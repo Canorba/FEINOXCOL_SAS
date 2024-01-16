@@ -294,6 +294,7 @@ p {
 
 .contact-info .contact-content{
     margin-bottom: 30px;
+    font-family: cursive;
 }
 
 .contact-info p{
@@ -638,6 +639,16 @@ font-weight: 700;
 color: #68c3a3;
 }
 
+p.cursiv {font-family: cursive; font-size: large;}
+
+p.geor {font-family: georgia;font-size: xx-large}
+
+p.fant {font-family: fantasy;}
+
+p.new {font-family: new times roman;}
+
+p.monos {font-family: monospace;}
+
 .st-header-title p{
 
 }
@@ -809,6 +820,7 @@ margin: 0 0 20px;
 
 .contact-info .contact-content{
 margin-bottom: 30px;
+font-family: cursive;
 }
 
 .contact-info p{
@@ -987,7 +999,6 @@ margin-left: 10px;
 }
 
 }
-
 
 @media (max-width: 479px) {
 
