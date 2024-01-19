@@ -96,7 +96,7 @@ p {
 
 .st-header{
     position: relative;
-    background-image: url(images/Mangueras2.jpg);
+    background-image: url(images/BannerManguera.jpg);
     background-position: 50% 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -198,7 +198,7 @@ p {
     padding-top: 100px;
     padding-bottom: 120px;
     position: relative;
-    background-image: url("images/Mangueras.jpg");
+    background-image: url("images/banner7.jpg");
     background-position: 50% 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -605,7 +605,7 @@ top: 65%;
 
 .st-header{
 position: relative;
-background-image: url(images/Mangueras2.jpg);
+background-image: url(images/BannerManguera.jpg);
 background-position: 50% 0;
 background-repeat: no-repeat;
 background-size: cover;
@@ -761,7 +761,7 @@ color: #68c3a3;
 padding-top: 100px;
 padding-bottom: 120px;
 position: relative;
-background-image: url("images/Mangueras.jpg");
+background-image: url("images/banner7.jpg");
 background-position: 50% 0;
 background-repeat: no-repeat;
 background-size: cover;
